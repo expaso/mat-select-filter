@@ -1,0 +1,7 @@
+/*
+ * Public API Surface of mat-select-filter
+ */
+export * from './lib/mat-select-filter.service';
+export * from './lib/mat-select-filter.component';
+export * from './lib/mat-select-filter.module';
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uL3NyYy9wdWJsaWNfYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBOztHQUVHO0FBRUgsY0FBYyxpQ0FBaUMsQ0FBQztBQUNoRCxjQUFjLG1DQUFtQyxDQUFDO0FBQ2xELGNBQWMsZ0NBQWdDLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyIvKlxyXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgbWF0LXNlbGVjdC1maWx0ZXJcclxuICovXHJcblxyXG5leHBvcnQgKiBmcm9tICcuL2xpYi9tYXQtc2VsZWN0LWZpbHRlci5zZXJ2aWNlJztcclxuZXhwb3J0ICogZnJvbSAnLi9saWIvbWF0LXNlbGVjdC1maWx0ZXIuY29tcG9uZW50JztcclxuZXhwb3J0ICogZnJvbSAnLi9saWIvbWF0LXNlbGVjdC1maWx0ZXIubW9kdWxlJztcclxuIl19
